@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fisch\\source\\repos\\basic\\src\\vin.Api\\vin.Api.csproj",
+      "projectUniqueName": "C:\\Entwicklung\\repos\\basic\\src\\vin.Api\\vin.Api.csproj",
       "projectName": "vin.Api",
-      "projectPath": "C:\\Users\\fisch\\source\\repos\\basic\\src\\vin.Api\\vin.Api.csproj",
+      "projectPath": "C:\\Entwicklung\\repos\\basic\\src\\vin.Api\\vin.Api.csproj",
       "packagesPath": "C:\\Users\\fisch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fisch\\source\\repos\\basic\\src\\vin.Api\\obj\\",
+      "outputPath": "C:\\Entwicklung\\repos\\basic\\src\\vin.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fisch\\AppData\\Roaming\\NuGet\\NuGet.Config",
